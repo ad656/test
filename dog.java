@@ -1,5 +1,5 @@
 public class dog{
-public int multiple(int x, int y){
+public static int multiple(int x, int y){
 return x*y;
 }
 }
